@@ -50,12 +50,14 @@ ul {
 .left {
   display: flex;
   flex-direction: row;
+  gap: 16px;
 }
 
 
 .right {
   display: flex;
   flex-direction: row;
+  gap: 16px;
 }
 
 .header {
