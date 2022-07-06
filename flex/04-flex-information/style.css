@@ -24,3 +24,31 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+/* changed stuff */
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  
+}
+
+body {
+  text-align: center;
+}
+
+
+.barberry, .chili, .saffron, .pepper {
+  flex-direction: column;
+  
+  max-width: 200px;
+}
+
