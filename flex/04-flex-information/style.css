@@ -26,4 +26,25 @@ img {
 }
 
 
+/* changes */
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 32px;
+}
+
+.stuff {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.section {
+  max-width: 200px;
+}
+
+body {
+  text-align: center;
+}
 
